@@ -4,6 +4,12 @@ A modern fintech dashboard that helps users track expenses, manage budgets, and 
 
 ---
 
+## 🚀 Live Preview
+
+🔗 https://money-mind0.netlify.app/
+
+---
+
 ## 🚀 Features
 
 - 📊 Interactive dashboard with financial overview  
